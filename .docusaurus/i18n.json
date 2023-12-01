@@ -1,17 +1,17 @@
 {
-  "defaultLocale": "en",
+  "defaultLocale": "ja",
   "locales": [
-    "en"
+    "ja"
   ],
   "path": "i18n",
-  "currentLocale": "en",
+  "currentLocale": "ja",
   "localeConfigs": {
-    "en": {
-      "label": "English",
+    "ja": {
+      "label": "日本語",
       "direction": "ltr",
-      "htmlLang": "en",
+      "htmlLang": "ja",
       "calendar": "gregory",
-      "path": "en"
+      "path": "ja"
     }
   }
 }
