@@ -1,0 +1,19 @@
+{
+  "id": "term_of_service",
+  "title": "利用規約",
+  "description": "この利用規約(以下「本規約」といいます)は、本サービスの利用条件を定めるものです。本サービスのすべてのユーザ(以下「ユーザー」といいます)に適用されます。",
+  "source": "@site/docs/term_of_service.md",
+  "sourceDirName": ".",
+  "slug": "/term_of_service",
+  "permalink": "/docs/term_of_service",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "プライバシーポリシー",
+    "permalink": "/docs/privacy_policy"
+  }
+}

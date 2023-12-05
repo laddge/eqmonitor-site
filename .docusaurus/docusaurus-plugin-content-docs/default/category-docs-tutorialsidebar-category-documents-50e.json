@@ -1,0 +1,12 @@
+{
+  "title": "Documents",
+  "description": "EQMonitorに関連するドキュメント",
+  "slug": "/category/documents",
+  "permalink": "/docs/category/documents",
+  "navigation": {
+    "next": {
+      "title": "プライバシーポリシー",
+      "permalink": "/docs/documents/privacy_policy"
+    }
+  }
+}
