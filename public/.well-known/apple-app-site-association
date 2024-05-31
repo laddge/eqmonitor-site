@@ -5,7 +5,7 @@
       {
         "appID": "CPL7H8SHVM.net.yumnumm.eqmonitor",
         "paths": [
-          "link/*"
+          "*"
         ]
       }
     ]
